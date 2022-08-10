@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440819441227",
+    "project_id": "ezpop-smart-container",
+    "storage_bucket": "ezpop-smart-container.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440819441227:android:0133bb5fac3fd22a07b7ce",
+        "android_client_info": {
+          "package_name": "com.example.fyp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440819441227-lir9ta2djagpfuhs44oqr5rhf66su74r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr18ibbtNXi12_HYSEqDePKfszWDQZf0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440819441227-lir9ta2djagpfuhs44oqr5rhf66su74r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
